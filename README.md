@@ -1,0 +1,1 @@
+# 8_c_sensor_interface_pattern
