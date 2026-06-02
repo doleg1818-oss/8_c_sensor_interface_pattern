@@ -1,0 +1,4 @@
+D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_example.dir
+D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_test.dir
+D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/edit_cache.dir
+D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/rebuild_cache.dir

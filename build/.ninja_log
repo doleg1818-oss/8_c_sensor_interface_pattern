@@ -1,0 +1,13 @@
+# ninja log v7
+2	105	8020323780300601	CMakeFiles/sensor_interface_pattern_example.dir/examples/main.c.obj	9ba42f5ea4a34cdf
+6	108	8020323780350650	CMakeFiles/sensor_interface_pattern_example.dir/src/sensor.c.obj	36fd73faff031615
+11	119	8020323780392691	CMakeFiles/sensor_interface_pattern_test.dir/src/sensor.c.obj	f3d75f0cb1090b28
+14	123	8020323780422694	CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj	e7638e0ffd544dbd
+2	95	8020324380785313	CMakeFiles/sensor_interface_pattern_example.dir/examples/main.c.obj	9ba42f5ea4a34cdf
+96	221	8020324381726511	sensor_interface_pattern_example.exe	9edce329e771f07b
+4	101	8020324855059673	CMakeFiles/sensor_interface_pattern_example.dir/examples/main.c.obj	9ba42f5ea4a34cdf
+9	111	8020324855109670	CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj	e7638e0ffd544dbd
+102	244	8020324856039150	sensor_interface_pattern_example.exe	9edce329e771f07b
+111	250	8020324856119140	sensor_interface_pattern_test.exe	1b67e06ac3456af
+5	102	8020756649468880	CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj	e7638e0ffd544dbd
+102	248	8020756650442638	sensor_interface_pattern_test.exe	1b67e06ac3456af
