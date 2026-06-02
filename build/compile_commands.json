@@ -13,6 +13,24 @@
 },
 {
   "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_example.dir\\src\\battery_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\battery_sensor.c",
+  "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/battery_sensor.c",
+  "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_example.dir/src/battery_sensor.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_example.dir\\src\\humidity_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\humidity_sensor.c",
+  "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/humidity_sensor.c",
+  "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_example.dir/src/humidity_sensor.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_example.dir\\src\\temperature_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\temperature_sensor.c",
+  "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/temperature_sensor.c",
+  "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_example.dir/src/temperature_sensor.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
   "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_test.dir\\src\\sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\sensor.c",
   "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/sensor.c",
   "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_test.dir/src/sensor.c.obj"
@@ -22,5 +40,23 @@
   "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_test.dir\\tests\\test_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\tests\\test_sensor.c",
   "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/tests/test_sensor.c",
   "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_test.dir\\src\\battery_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\battery_sensor.c",
+  "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/battery_sensor.c",
+  "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_test.dir/src/battery_sensor.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_test.dir\\src\\humidity_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\humidity_sensor.c",
+  "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/humidity_sensor.c",
+  "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_test.dir/src/humidity_sensor.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include -g -std=gnu99 -o CMakeFiles\\sensor_interface_pattern_test.dir\\src\\temperature_sensor.c.obj -c D:\\2.work\\4_education\\1_C\\8_c_sensor_interface_pattern\\src\\temperature_sensor.c",
+  "file": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/temperature_sensor.c",
+  "output": "D:/2.work/4_education/1_C/8_c_sensor_interface_pattern/build/CMakeFiles/sensor_interface_pattern_test.dir/src/temperature_sensor.c.obj"
 }
 ]

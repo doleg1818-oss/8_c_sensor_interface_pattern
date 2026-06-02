@@ -67,6 +67,33 @@ build CMakeFiles/sensor_interface_pattern_example.dir/src/sensor.c.obj: C_COMPIL
   OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_example.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
 
+build CMakeFiles/sensor_interface_pattern_example.dir/src/battery_sensor.c.obj: C_COMPILER__sensor_interface_pattern_example_unscanned_Debug D$:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/battery_sensor.c || cmake_object_order_depends_target_sensor_interface_pattern_example
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\sensor_interface_pattern_example.dir\src\battery_sensor.c.obj.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include
+  OBJECT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
+  OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_example.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
+
+build CMakeFiles/sensor_interface_pattern_example.dir/src/humidity_sensor.c.obj: C_COMPILER__sensor_interface_pattern_example_unscanned_Debug D$:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/humidity_sensor.c || cmake_object_order_depends_target_sensor_interface_pattern_example
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\sensor_interface_pattern_example.dir\src\humidity_sensor.c.obj.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include
+  OBJECT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
+  OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_example.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
+
+build CMakeFiles/sensor_interface_pattern_example.dir/src/temperature_sensor.c.obj: C_COMPILER__sensor_interface_pattern_example_unscanned_Debug D$:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/temperature_sensor.c || cmake_object_order_depends_target_sensor_interface_pattern_example
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\sensor_interface_pattern_example.dir\src\temperature_sensor.c.obj.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include
+  OBJECT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
+  OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_example.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_example.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target sensor_interface_pattern_example
@@ -75,7 +102,7 @@ build CMakeFiles/sensor_interface_pattern_example.dir/src/sensor.c.obj: C_COMPIL
 #############################################
 # Link the executable sensor_interface_pattern_example.exe
 
-build sensor_interface_pattern_example.exe: C_EXECUTABLE_LINKER__sensor_interface_pattern_example_Debug CMakeFiles/sensor_interface_pattern_example.dir/examples/main.c.obj CMakeFiles/sensor_interface_pattern_example.dir/src/sensor.c.obj
+build sensor_interface_pattern_example.exe: C_EXECUTABLE_LINKER__sensor_interface_pattern_example_Debug CMakeFiles/sensor_interface_pattern_example.dir/examples/main.c.obj CMakeFiles/sensor_interface_pattern_example.dir/src/sensor.c.obj CMakeFiles/sensor_interface_pattern_example.dir/src/battery_sensor.c.obj CMakeFiles/sensor_interface_pattern_example.dir/src/humidity_sensor.c.obj CMakeFiles/sensor_interface_pattern_example.dir/src/temperature_sensor.c.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -114,6 +141,33 @@ build CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj: C_CO
   OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_test.dir\tests
   TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
 
+build CMakeFiles/sensor_interface_pattern_test.dir/src/battery_sensor.c.obj: C_COMPILER__sensor_interface_pattern_test_unscanned_Debug D$:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/battery_sensor.c || cmake_object_order_depends_target_sensor_interface_pattern_test
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\sensor_interface_pattern_test.dir\src\battery_sensor.c.obj.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include
+  OBJECT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
+  OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_test.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
+
+build CMakeFiles/sensor_interface_pattern_test.dir/src/humidity_sensor.c.obj: C_COMPILER__sensor_interface_pattern_test_unscanned_Debug D$:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/humidity_sensor.c || cmake_object_order_depends_target_sensor_interface_pattern_test
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\sensor_interface_pattern_test.dir\src\humidity_sensor.c.obj.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include
+  OBJECT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
+  OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_test.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
+
+build CMakeFiles/sensor_interface_pattern_test.dir/src/temperature_sensor.c.obj: C_COMPILER__sensor_interface_pattern_test_unscanned_Debug D$:/2.work/4_education/1_C/8_c_sensor_interface_pattern/src/temperature_sensor.c || cmake_object_order_depends_target_sensor_interface_pattern_test
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\sensor_interface_pattern_test.dir\src\temperature_sensor.c.obj.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -ID:/2.work/4_education/1_C/8_c_sensor_interface_pattern/include
+  OBJECT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
+  OBJECT_FILE_DIR = CMakeFiles\sensor_interface_pattern_test.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\sensor_interface_pattern_test.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target sensor_interface_pattern_test
@@ -122,7 +176,7 @@ build CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj: C_CO
 #############################################
 # Link the executable sensor_interface_pattern_test.exe
 
-build sensor_interface_pattern_test.exe: C_EXECUTABLE_LINKER__sensor_interface_pattern_test_Debug CMakeFiles/sensor_interface_pattern_test.dir/src/sensor.c.obj CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj
+build sensor_interface_pattern_test.exe: C_EXECUTABLE_LINKER__sensor_interface_pattern_test_Debug CMakeFiles/sensor_interface_pattern_test.dir/src/sensor.c.obj CMakeFiles/sensor_interface_pattern_test.dir/tests/test_sensor.c.obj CMakeFiles/sensor_interface_pattern_test.dir/src/battery_sensor.c.obj CMakeFiles/sensor_interface_pattern_test.dir/src/humidity_sensor.c.obj CMakeFiles/sensor_interface_pattern_test.dir/src/temperature_sensor.c.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

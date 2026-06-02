@@ -9,9 +9,15 @@ include_directories(include)
 add_executable(sensor_interface_pattern_example
     examples/main.c
     src/sensor.c
+    src/battery_sensor.c
+    src/humidity_sensor.c
+    src/temperature_sensor.c
 )
 
 add_executable(sensor_interface_pattern_test
     src/sensor.c
     tests/test_sensor.c
+    src/battery_sensor.c
+    src/humidity_sensor.c
+    src/temperature_sensor.c
 )
